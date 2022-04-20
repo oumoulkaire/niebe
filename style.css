@@ -1,0 +1,17 @@
+.place{
+  background-image: url(fleur.jpeg);
+  background-attachment: fixed;
+
+}
+.coul{
+    color: white;
+}
+.col{
+    display: flex;
+}
+.cool{
+    padding-top: 25px;
+}
+.me{
+    padding-top: 80px;
+}
